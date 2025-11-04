@@ -1,9 +1,9 @@
 ⚙️ Автор: MOL4ALIVY
 ----------------------
 🧠 LoadBalancer
-
-Скачать [LoadBalancer](https://github.com/steammol4alivy-lgtm/LoadBalancer/raw/refs/heads/main/LoadBalancer.exe)
 -
+[Скачать](https://github.com/steammol4alivy-lgtm/LoadBalancer/raw/refs/heads/main/LoadBalancer.exe)
+
 LoadBalancer — это утилита для Windows, написанная на AutoHotkey, которая временно исключает самое загруженное ядро из работы процесса cs2.exe, снижая фризы и повышая стабильность FPS.
 
 🎯 Цель:Оптимизация загрузки процессора для CS2
